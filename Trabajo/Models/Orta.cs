@@ -7,5 +7,6 @@ namespace Trabajo.Models
 {
     public class Orta
     {
+        public int holacomoestas { get; set; }
     }
 }
