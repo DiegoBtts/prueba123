@@ -126,6 +126,7 @@
     </Compile>
     <Compile Include="Models\Holal.cs" />
     <Compile Include="Models\NuevaClaseAgregada.cs" />
+    <Compile Include="Models\Orta.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
